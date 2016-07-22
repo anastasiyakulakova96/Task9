@@ -1,0 +1,14 @@
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\bin\Debug\Task9.exe.config
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\bin\Debug\Task9.exe
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\bin\Debug\Task9.pdb
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\MainWindow.g.cs
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\App.g.cs
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9_MarkupCompile.cache
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9_MarkupCompile.lref
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\MainWindow.baml
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.g.resources
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.Properties.Resources.resources
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.csproj.GenerateResource.Cache
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.exe
+c:\users\anastasiya_kulakova\documents\visual studio 2015\Projects\Task9\Task9\obj\Debug\Task9.pdb
